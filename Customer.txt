@@ -1,0 +1,4 @@
+1,ali,20,male,12345,67890,ali,123
+2,aheed,20,male,7890,12345,aheed,123
+3,aheed,19,male,1234,23677,saroosh,456
+4,sa,34,d,sd,wd,ahmed,678
